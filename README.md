@@ -69,8 +69,10 @@ Plink – https://useplink.com/en/
 •	I like the whole design and layout of this site as it is easy to understand and has minimal writing so the user can read and move onto the next thing right after with no time wasted. BIG and BOLD characters are used for subheadings for information that must be read and with the BOLD characters users will be drawn to reading that first than anything else on the page. What I would like to implement into this project from plink, is the use of colour and interaction for the different sections of the site as it makes the site pop out and unique to other sites and instantly creates an attraction to the user.
 
 IKEA - https://www.ikea.com/gb/en/
+
 •	Ikea has great spacing allowing the user to look around the site without feeling clustered with too much information. The main element that makes IKEA a good inspiration is the icons and font that they use. The font that IKEA use comes across as family friendly and clear whilst the icons also feel family friendly and give IKEA online users a feel of home and comfort when using the site.
 
 Fortnite - https://www.epicgames.com/fortnite/en-US/home
+
 •	 As fortnite caters their content towards younger audiences I noticed that they know what will attract them by using simple and clear tones with big and bold quotes and bright colours. What also emphasises and makes the site jump out towards the user is the fortnite characters that help entice the user to explore through the site more and the use of images and box elements being expanded whilst being overlapped to create a pop-up book feel.
 
