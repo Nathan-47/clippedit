@@ -1,4 +1,4 @@
-# Clippedit
+# Clippedit(PHP)
 This project is a site built with a working login system that will allow users to sign up and their data be recorded into the database. 
 
 <br />
