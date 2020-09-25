@@ -50,6 +50,8 @@ header("location:../userpage.php?login=success");<br />
 
 If true, then the user will be taken to website logged in on their account with the message login success. Then once user has logged in a session will be created to save information that the user has opted for. Found in the logout file it will have a session end script that will run once the user logouts the site.  
 
+<br />
+
 - ? is used as placeholders for security reasons -<br /> 
 I learnt that the (?) placeholders are used when using a sql statement that runs within the database to prevent code being written into the username input, which would lead to said code destroying the database.
 
@@ -59,12 +61,13 @@ I learnt that the (?) placeholders are used when using a sql statement that runs
 ## Technologies
 ### What technologies are used in this project?
 Project created with:
-* 
-* 
-* 
-* 
-* 
-* 
+* Git
+* PHP
+* JS
+* CSS3
+* HTML5
+
+Software code editor : Brackets Web Editor
 
 ### What skills have I showcased in this project?
 
@@ -73,26 +76,29 @@ Project created with:
 
 ## Setup
 ### Use of local server or libraries in project?
-
+For the database and the form to be able to connect I had to use a local server xampp.
 
 ### Instructions on how to access and open the doc for localhost?
 Below is a guide that shows how to open the project.
-*	
-*	
-*	
-*	
-* 
+*	Get the server working.
+
+*	Download the project via zip file, this can be located under the code dropdown that is highlighted green.
+
+*	When the zip file is downloaded go to the file and extract the docs.
+
+*	Extract the docs into the localhost directory file. This file should be the one that allows the downloaded files to be read and be displayed on the local server thus showing the full site. i.e.- For xampp (local server program) the directory file would be htdocs.
 
 ### Instructions when on site
-*	
-*	
+*	To open the site on a web browser, go to the URL and type localhost and this should take you to the landing page.
+
+*	When on the landing page click sign up and it should take you to the user log in page then choose what option you need which is either login into the site or sign up to the site.
 
 
 <br />
 
 ## Status
 ### Is the project finished, does it need time to finish, what is the current progress?
-The project has started and is currently in the planning stage.
+The project has not finished as I still need to create the landing page and I have now finished with the login system using a localhost sever.
 
 <br />
 
