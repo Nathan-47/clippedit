@@ -70,7 +70,7 @@ Project created with:
 Software code editor : Brackets Web Editor
 
 ### What skills have I showcased in this project?
-
+In this project I have showcased the ability to create a login system that also alerts user with error messages when incorrect inputs have been made, empty input fields and sql related issues. Using github libraries I used skills such as adapting and problem solving to help the design and function of the site. I then used my skills to alter the coding of the downloaded git files to cater to what I want for the site.  
 
 <br />
 
