@@ -98,7 +98,7 @@ Below is a guide that shows how to open the project.
 
 ## Status
 ### Is the project finished, does it need time to finish, what is the current progress?
-The project has not finished as I still need to create the landing page and I have now finished with the login system using a localhost sever.
+Project is finished and will no be uploaded onto my portfolio site.
 
 <br />
 
