@@ -22,13 +22,6 @@ Creating this project, I learnt a lot within the PHP world and looking forward t
 - Preg_match and filter validate email processes -<br />
 As I am still in the process of understanding forms within PHP, I came across something new which was using the function of filter_validate_email(FVE). It is imperative that FVE is used as it checks if the email that the user has entered is valid. For the function to act this out I had to use (!filter_var($email, FILTER_VALIDATE_EMAIL)). The $email is equal to the form parameter ‘mail’ as this is the input field that the user will type their email address and thus the field can be read by the function to see if the email is not valid. 
 
-- How to implement an error message and how to tell the database that fields on the form are empty -<br /> 
-Of course, when users are completing a form most of the time the user will either type the wrong username, email or password or completely forget about completing a field within the form. Therefore, an error message is essential so that it can inform users on what area of the form hasn’t been filled in. The user is given the error message via the URL tab with the source of the problem that led to the error to help the user understand what the issue is. 
-
- An example of the code;
- 
- header("location: ../signup.php?error=invaliduid&mail=".$email);
-
 <br />
 
 - Password match checks and creation of sessions -<br />
@@ -39,16 +32,7 @@ As users will have different passwords there will need to be a function that wil
 The password check is a bool that contains the $password string that links back to the form password input field and the collection of arrays found within the pwdUsers row within the database to match them together to see if they both equal each other. 
 
 if ($pwdCheck == false)<br /> 
-Once checked the user will need to be directed to another page if the password check is false or true. If false, the user will have an error message and taken to the form with a resubmission option.  
-
-
-else if ($pwdCheck == true) {<br />
-session_start();<br />
-$_SESSION['userId'] = $row['idUsers'];<br />
-$_SESSION['userUid'] = $row['uidUsers'];<br />
-header("location:../userpage.php?login=success");<br />
-
-If true, then the user will be taken to website logged in on their account with the message login success. Then once user has logged in a session will be created to save information that the user has opted for. Found in the logout file it will have a session end script that will run once the user logouts the site.  
+Once checked the user will need to be directed to another page if the password check is false or true. If false, the user will have an error message and taken to the form with a resubmission option.
 
 <br />
 
