@@ -24,18 +24,6 @@ As I am still in the process of understanding forms within PHP, I came across so
 
 <br />
 
-- Password match checks and creation of sessions -<br />
-As users will have different passwords there will need to be a function that will be able to check if the password a user has typed in matches exactly to the password in the database. To do this the function used was
-
- $pwdCheck = password_verify($password, $row['pwdUsers']);
- 
-The password check is a bool that contains the $password string that links back to the form password input field and the collection of arrays found within the pwdUsers row within the database to match them together to see if they both equal each other. 
-
-if ($pwdCheck == false)<br /> 
-Once checked the user will need to be directed to another page if the password check is false or true. If false, the user will have an error message and taken to the form with a resubmission option.
-
-<br />
-
 - ? is used as placeholders for security reasons -<br /> 
 I learnt that the (?) placeholders are used when using a sql statement that runs within the database to prevent code being written into the username input, which would lead to said code destroying the database.
 
