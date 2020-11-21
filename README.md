@@ -70,7 +70,7 @@ Below is a guide that shows how to open the project.
 
 ## Status
 ### Is the project finished, does it need time to finish, what is the current progress?
-Project is finished and will no be uploaded onto my portfolio site.
+Project is finished and is uploaded to my portfolio site.
 
 <br />
 
