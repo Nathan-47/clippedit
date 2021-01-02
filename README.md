@@ -7,8 +7,6 @@ This project is a site built with a working login system that will allow users t
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
-* [Status](#status)
-* [Inspiration](#inspiration)
 
 
 ## General info
