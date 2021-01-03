@@ -12,6 +12,12 @@ This project is a site built with a working login system that will allow users t
 ## General info
 ### What is the project about and why was it made?
 
+```
+git status
+git add
+git commit
+```
+
 <br />
 
 ## Technologies
