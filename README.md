@@ -2,6 +2,10 @@
 This project was created using xampp to host a local server that allows users to sign up to create an account and then sign in using their details. The main focus of this project was to create a login system that works and alerts or backs users out when input fields are wrongly filled in.
 <br />
 
+## Localhost Requirement
+- [xampp](https://www.apachefriends.org/index.html)
+
+
 ## Setup
 ### PROJECT INSTALLATION
  *A local host server preferably xampp must be installed for project to be initiated.
