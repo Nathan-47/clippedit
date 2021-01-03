@@ -1,4 +1,4 @@
-# Clippedit(PHP)
+# Clippedit
 This project was created using xampp to host a local server that allows users to sign up to create an account and then sign in using their details. The main focus of this project was to create a login system that works and alerts or backs users out when input fields are wrongly filled in.
 <br />
 
