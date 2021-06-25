@@ -27,5 +27,7 @@ This project was created using xampp to host a local server that allows users to
 
 - I wanted to get a grasp of how passwords are matched with a user. Throughout the project i researched that a boolean that contains a $password string links back to the form password input field and the collection of arrays found within the pwdUsers row within the database to are then matched together to see if they are both equal to each other. 
 
+<br />
+
 ### Skills showcased
 - In this project I have showcased the ability to create a login system that alerts users with an error message when incorrect inputs have been made, empty input fields and sql related issues.
